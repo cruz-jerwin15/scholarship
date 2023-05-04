@@ -1,0 +1,5 @@
+[09-Nov-2021 14:23:24 UTC] PHP Strict Standards:  mysqli::next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /home/cityofst1/public_html/form.php on line 160
+[11-Nov-2021 11:04:30 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/cityofst1/public_html/GetID.php on line 24
+[11-Nov-2021 11:04:34 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/cityofst1/public_html/GetID.php on line 24
+[11-Nov-2021 11:04:49 UTC] PHP Warning:  require_once(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/generated_application_form.php on line 33
+[11-Nov-2021 11:04:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cityofst1/public_html/generated_application_form.php on line 33

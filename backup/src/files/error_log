@@ -1,0 +1,33 @@
+[11-Nov-2021 11:08:22 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/print2.php on line 2
+[11-Nov-2021 11:08:22 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/print2.php on line 2
+[11-Nov-2021 11:08:22 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cityofst1/public_html/src/files/print2.php on line 2
+[11-Nov-2021 11:08:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cityofst1/public_html/src/files/print2.php on line 6
+[11-Nov-2021 11:08:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cityofst1/public_html/src/files/print2.php on line 7
+[11-Nov-2021 11:08:22 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/print2.php on line 50
+[11-Nov-2021 11:08:22 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/print2.php on line 50
+[11-Nov-2021 11:08:22 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cityofst1/public_html/src/files/print2.php on line 50
+[11-Nov-2021 11:08:22 UTC] PHP Warning:  require_once(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/print2.php on line 52
+[11-Nov-2021 11:08:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cityofst1/public_html/src/files/print2.php on line 52
+[11-Nov-2021 11:08:29 UTC] PHP Warning:  include(logo.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/collegefullscholar.php on line 42
+[11-Nov-2021 11:08:29 UTC] PHP Warning:  include(logo.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/collegefullscholar.php on line 42
+[11-Nov-2021 11:08:29 UTC] PHP Warning:  include(): Failed opening 'logo.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cityofst1/public_html/src/files/collegefullscholar.php on line 42
+[11-Nov-2021 11:08:29 UTC] PHP Warning:  include(Notif.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/collegefullscholar.php on line 45
+[11-Nov-2021 11:08:29 UTC] PHP Warning:  include(Notif.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/collegefullscholar.php on line 45
+[11-Nov-2021 11:08:29 UTC] PHP Warning:  include(): Failed opening 'Notif.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cityofst1/public_html/src/files/collegefullscholar.php on line 45
+[11-Nov-2021 11:08:29 UTC] PHP Warning:  include(sidepanel.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/collegefullscholar.php on line 52
+[11-Nov-2021 11:08:29 UTC] PHP Warning:  include(sidepanel.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/collegefullscholar.php on line 52
+[11-Nov-2021 11:08:29 UTC] PHP Warning:  include(): Failed opening 'sidepanel.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cityofst1/public_html/src/files/collegefullscholar.php on line 52
+[11-Nov-2021 11:08:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/cityofst1/public_html/src/files/collegefullscholar.php:191
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/files/collegefullscholar.php on line 191
+[04-Jan-2022 10:26:23 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/print2.php on line 2
+[04-Jan-2022 10:26:23 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/print2.php on line 2
+[04-Jan-2022 10:26:23 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cityofst1/public_html/src/files/print2.php on line 2
+[04-Jan-2022 10:26:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/cityofst1/public_html/src/files/print2.php on line 6
+[04-Jan-2022 10:26:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/cityofst1/public_html/src/files/print2.php on line 7
+[04-Jan-2022 10:26:23 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/print2.php on line 50
+[04-Jan-2022 10:26:23 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/print2.php on line 50
+[04-Jan-2022 10:26:23 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cityofst1/public_html/src/files/print2.php on line 50
+[04-Jan-2022 10:26:23 UTC] PHP Warning:  require_once(fpdf/fpdf.php): failed to open stream: No such file or directory in /home/cityofst1/public_html/src/files/print2.php on line 52
+[04-Jan-2022 10:26:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'fpdf/fpdf.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/cityofst1/public_html/src/files/print2.php on line 52

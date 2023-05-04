@@ -1,0 +1,178 @@
+[09-Nov-2021 13:15:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/applicantResult.php:213
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/applicantResult.php on line 213
+[10-Nov-2021 07:48:43 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: 16-bit depth not supported: profile/202110142123361634217817.PNG in /home/cityofst1/public_html/src/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cityofst1/public_html/src/fpdf/fpdf.php(1281): FPDF->Error('16-bit depth no...')
+#1 /home/cityofst1/public_html/src/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #8, 'profile/2021101...')
+#2 /home/cityofst1/public_html/src/fpdf/fpdf.php(885): FPDF->_parsepng('profile/2021101...')
+#3 /home/cityofst1/public_html/src/assessmentSingle.php(95): FPDF->Image('profile/2021101...', 150, 10, 40)
+#4 {main}
+  thrown in /home/cityofst1/public_html/src/fpdf/fpdf.php on line 271
+[10-Nov-2021 07:48:57 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: 16-bit depth not supported: profile/202110142123361634217817.PNG in /home/cityofst1/public_html/src/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cityofst1/public_html/src/fpdf/fpdf.php(1281): FPDF->Error('16-bit depth no...')
+#1 /home/cityofst1/public_html/src/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #8, 'profile/2021101...')
+#2 /home/cityofst1/public_html/src/fpdf/fpdf.php(885): FPDF->_parsepng('profile/2021101...')
+#3 /home/cityofst1/public_html/src/newStudentInformation.php(427): FPDF->Image('profile/2021101...', 150, 10, 40)
+#4 {main}
+  thrown in /home/cityofst1/public_html/src/fpdf/fpdf.php on line 271
+[10-Nov-2021 07:49:04 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: 16-bit depth not supported: profile/202110142123361634217817.PNG in /home/cityofst1/public_html/src/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cityofst1/public_html/src/fpdf/fpdf.php(1281): FPDF->Error('16-bit depth no...')
+#1 /home/cityofst1/public_html/src/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #8, 'profile/2021101...')
+#2 /home/cityofst1/public_html/src/fpdf/fpdf.php(885): FPDF->_parsepng('profile/2021101...')
+#3 /home/cityofst1/public_html/src/assessmentSingle.php(95): FPDF->Image('profile/2021101...', 150, 10, 40)
+#4 {main}
+  thrown in /home/cityofst1/public_html/src/fpdf/fpdf.php on line 271
+[10-Nov-2021 07:53:33 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: 16-bit depth not supported: profile/202110142123361634217817.PNG in /home/cityofst1/public_html/src/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cityofst1/public_html/src/fpdf/fpdf.php(1281): FPDF->Error('16-bit depth no...')
+#1 /home/cityofst1/public_html/src/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #8, 'profile/2021101...')
+#2 /home/cityofst1/public_html/src/fpdf/fpdf.php(885): FPDF->_parsepng('profile/2021101...')
+#3 /home/cityofst1/public_html/src/assessmentSingle.php(95): FPDF->Image('profile/2021101...', 150, 10, 40)
+#4 {main}
+  thrown in /home/cityofst1/public_html/src/fpdf/fpdf.php on line 271
+[10-Nov-2021 07:53:37 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: 16-bit depth not supported: profile/202110142123361634217817.PNG in /home/cityofst1/public_html/src/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cityofst1/public_html/src/fpdf/fpdf.php(1281): FPDF->Error('16-bit depth no...')
+#1 /home/cityofst1/public_html/src/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #8, 'profile/2021101...')
+#2 /home/cityofst1/public_html/src/fpdf/fpdf.php(885): FPDF->_parsepng('profile/2021101...')
+#3 /home/cityofst1/public_html/src/assessmentSingle.php(95): FPDF->Image('profile/2021101...', 150, 10, 40)
+#4 {main}
+  thrown in /home/cityofst1/public_html/src/fpdf/fpdf.php on line 271
+[11-Nov-2021 01:56:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/cityofst1/public_html/src/assessmentFinalAllNew.php on line 221
+[11-Nov-2021 01:58:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/cityofst1/public_html/src/assessmentFinalAllNew.php on line 221
+[11-Nov-2021 10:21:12 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/newdetailedResult.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/newdetailedResult.php on line 199
+[11-Nov-2021 10:23:36 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/newdetailedResult.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/newdetailedResult.php on line 199
+[11-Nov-2021 10:24:18 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/newdetailedResult.php:199
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/newdetailedResult.php on line 199
+[11-Nov-2021 02:24:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/cityofst1/public_html/src/newdetailedResult.php on line 271
+[11-Nov-2021 03:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/find.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/find.php on line 19
+[11-Nov-2021 03:56:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/cityofst1/public_html/src/newdetailedResult.php on line 279
+[11-Nov-2021 05:05:15 UTC] PHP Parse error:  syntax error, unexpected '$residencys' (T_VARIABLE) in /home/cityofst1/public_html/src/newdetailedResult.php on line 404
+[11-Nov-2021 05:05:46 UTC] PHP Parse error:  syntax error, unexpected '$incomes' (T_VARIABLE), expecting ')' in /home/cityofst1/public_html/src/newdetailedResult.php on line 426
+[11-Nov-2021 05:06:18 UTC] PHP Parse error:  syntax error, unexpected '$residencys' (T_VARIABLE) in /home/cityofst1/public_html/src/newdetailedResult.php on line 506
+[11-Nov-2021 06:25:27 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/cityofst1/public_html/src/applicantResult.php on line 350
+[11-Nov-2021 06:25:45 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/cityofst1/public_html/src/applicantResult.php on line 350
+[13-Nov-2021 22:39:11 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/cityofst1/public_html/src/sendExam.php on line 35
+[17-Nov-2021 00:18:20 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/cityofst1/public_html/src/releaseGrant.php on line 12
+[17-Nov-2021 08:18:24 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/cityofst1/public_html/src/releaseGrant.php on line 216
+[17-Nov-2021 08:18:24 Asia/Manila] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/cityofst1/public_html/src/releaseGrant.php:12) in /home/cityofst1/public_html/src/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cityofst1/public_html/src/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/cityofst1/public_html/src/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cityofst1/public_html/src/releaseGrant.php(308): FPDF->Output()
+#3 {main}
+  thrown in /home/cityofst1/public_html/src/fpdf/fpdf.php on line 271
+[17-Nov-2021 00:31:22 UTC] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/cityofst1/public_html/src/releaseGrant.php on line 12
+[17-Nov-2021 08:31:26 Asia/Manila] PHP Warning:  A non-numeric value encountered in /home/cityofst1/public_html/src/releaseGrant.php on line 216
+[17-Nov-2021 08:31:26 Asia/Manila] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file (output started at /home/cityofst1/public_html/src/releaseGrant.php:12) in /home/cityofst1/public_html/src/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cityofst1/public_html/src/fpdf/fpdf.php(1052): FPDF->Error('Some data has a...')
+#1 /home/cityofst1/public_html/src/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/cityofst1/public_html/src/releaseGrant.php(308): FPDF->Output()
+#3 {main}
+  thrown in /home/cityofst1/public_html/src/fpdf/fpdf.php on line 271
+[18-Nov-2021 09:07:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/assessmentCollegeRecipient.php:643
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/assessmentCollegeRecipient.php on line 643
+[20-Nov-2021 08:55:17 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/cityofst1/public_html/src/sendExam.php on line 35
+[23-Nov-2021 03:31:45 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Not a PNG file: profile/202110052216571633443417.png in /home/cityofst1/public_html/src/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cityofst1/public_html/src/fpdf/fpdf.php(1271): FPDF->Error('Not a PNG file:...')
+#1 /home/cityofst1/public_html/src/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #8, 'profile/2021100...')
+#2 /home/cityofst1/public_html/src/fpdf/fpdf.php(885): FPDF->_parsepng('profile/2021100...')
+#3 /home/cityofst1/public_html/src/assessmentSingle.php(95): FPDF->Image('profile/2021100...', 150, 10, 40)
+#4 {main}
+  thrown in /home/cityofst1/public_html/src/fpdf/fpdf.php on line 271
+[23-Nov-2021 03:31:52 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Not a PNG file: profile/202110052216571633443417.png in /home/cityofst1/public_html/src/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cityofst1/public_html/src/fpdf/fpdf.php(1271): FPDF->Error('Not a PNG file:...')
+#1 /home/cityofst1/public_html/src/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #8, 'profile/2021100...')
+#2 /home/cityofst1/public_html/src/fpdf/fpdf.php(885): FPDF->_parsepng('profile/2021100...')
+#3 /home/cityofst1/public_html/src/assessmentSingle.php(95): FPDF->Image('profile/2021100...', 150, 10, 40)
+#4 {main}
+  thrown in /home/cityofst1/public_html/src/fpdf/fpdf.php on line 271
+[24-Nov-2021 08:53:22 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Not a PNG file: profile/202110052216571633443417.png in /home/cityofst1/public_html/src/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/cityofst1/public_html/src/fpdf/fpdf.php(1271): FPDF->Error('Not a PNG file:...')
+#1 /home/cityofst1/public_html/src/fpdf/fpdf.php(1262): FPDF->_parsepngstream(Resource id #8, 'profile/2021100...')
+#2 /home/cityofst1/public_html/src/fpdf/fpdf.php(885): FPDF->_parsepng('profile/2021100...')
+#3 /home/cityofst1/public_html/src/assessmentSingle.php(95): FPDF->Image('profile/2021100...', 150, 10, 40)
+#4 {main}
+  thrown in /home/cityofst1/public_html/src/fpdf/fpdf.php on line 271
+[29-Nov-2021 01:12:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/requestpassword.php:270
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/requestpassword.php on line 270
+[29-Nov-2021 02:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/assessmentSHS.php:601
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/assessmentSHS.php on line 601
+[29-Nov-2021 02:26:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/assessmentSHS.php:601
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/assessmentSHS.php on line 601
+[29-Nov-2021 08:24:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/interviewSHS.php:501
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/interviewSHS.php on line 501
+[02-Dec-2021 03:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/assessmentCollegeFullScholar.php:598
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/assessmentCollegeFullScholar.php on line 598
+[04-Dec-2021 08:23:08 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/cityofst1/public_html/src/sendExam.php on line 35
+[10-Dec-2021 07:36:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/assessmentCollegeRecipient.php:643
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/assessmentCollegeRecipient.php on line 643
+[10-Dec-2021 07:37:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/interviewCollegeRecipient.php:463
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/interviewCollegeRecipient.php on line 463
+[11-Dec-2021 19:20:42 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/cityofst1/public_html/src/sendExam.php on line 35
+[12-Dec-2021 14:13:57 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/cityofst1/public_html/src/sendExam.php on line 35
+[07-Jan-2022 12:04:53 Asia/Manila] PHP Warning:  mysqli::query(): Empty query in /home/cityofst1/public_html/src/releaseGrant.php on line 172
+[07-Jan-2022 12:04:53 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/releaseGrant.php:174
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/releaseGrant.php on line 174
+[11-Jan-2022 08:18:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/newCollegeRecipient.php:462
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/newCollegeRecipient.php on line 462
+[13-Jan-2022 11:31:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/assessmentCollegeRecipient.php:643
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/assessmentCollegeRecipient.php on line 643
+[13-Jan-2022 11:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/cityofst1/public_html/src/assessmentCollegeRecipient.php:643
+Stack trace:
+#0 {main}
+  thrown in /home/cityofst1/public_html/src/assessmentCollegeRecipient.php on line 643
+[27-Jan-2022 02:06:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/cityofst1/public_html/src/index.php on line 358
+[11-Feb-2022 02:38:31 UTC] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[11-Feb-2022 02:38:31 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php72) in Unknown on line 0
+[11-Feb-2022 02:40:04 UTC] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[11-Feb-2022 02:40:05 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php72) in Unknown on line 0
+[11-Feb-2022 02:40:35 UTC] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[11-Feb-2022 02:40:35 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php72) in Unknown on line 0
+[11-Feb-2022 02:51:22 UTC] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[11-Feb-2022 02:51:22 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php72) in Unknown on line 0
+[11-Feb-2022 02:53:18 UTC] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[11-Feb-2022 02:53:18 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php72) in Unknown on line 0
+[11-Feb-2022 02:54:39 UTC] PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+[11-Feb-2022 02:54:39 UTC] PHP Warning:  Unknown: Failed to write session data (files).
